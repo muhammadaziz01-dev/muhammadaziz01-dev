@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammadaziz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ..
+- 👀 I’m interested in programming, reading and doing sports
+- 🌱 I’m currently learning programming
 
 
 <!---
