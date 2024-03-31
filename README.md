@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Muhammadaziz
+- 👋Hi, I'm Muhammadazi, I'm currently a Frontend developer
 - 👀 I’m interested in programming, reading and doing sports
 - 🌱 I’m currently learning programming
 
