@@ -53,7 +53,7 @@
   </a>
 <!--    vue.js -->
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/768px-Vue.js_Logo_2.svg.png" alt="Vue" width="40" height="35" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/768px-Vue.js_Logo_2.svg.png" alt="Vue" width="40" height="38" />
   </a> 
 </p>
 
