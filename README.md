@@ -65,7 +65,7 @@
 </p>
 
 
-[![Muhammadaziz GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadaziz01-dev&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Muhammadaziz GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadaziz01-dev&theme=react-dark)](https://github.com/muhammadaziz01-dev/github-readme-activity-graph)
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
 
