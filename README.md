@@ -51,13 +51,13 @@
    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next" width="40" height="40" />
   </a>
-<!--    vue.js -->
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/768px-Vue.js_Logo_2.svg.png" alt="Vue" width="40" height="38" />
-  </a> 
   <!--    astro.js -->
   <a href="https://astro.build/" target="_blank" rel="noreferrer">
     <img src="https://astro.build/assets/press/astro-icon-light-gradient.png" alt="Astro" width="40" height="38" />
+  </a> 
+<!--    vue.js -->
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/768px-Vue.js_Logo_2.svg.png" alt="Vue" width="40" height="38" />
   </a> 
 </p>
 
