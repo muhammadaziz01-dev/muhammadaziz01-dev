@@ -53,7 +53,7 @@
   </a>
   <!--    astro.js -->
   <a href="https://astro.build/" target="_blank" rel="noreferrer">
-    <img src="https://astro.build/assets/press/astro-icon-light-gradient.png" alt="Astro" width="38" height="38" />
+    <img src="https://astro.build/assets/press/astro-icon-light-gradient.png" alt="Astro" width="36" height="38" />
   </a> 
 <!--    vue.js -->
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
